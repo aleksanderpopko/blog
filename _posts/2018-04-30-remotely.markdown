@@ -1,0 +1,33 @@
+---
+title: "Remotely"
+layout: post
+date: 2018-04-30 13:10
+headerImage: false
+tag:
+- philosophy
+category: blog
+author: aleksanderpopko
+description: Six thoughts after three years of working remotely.
+---
+*Not going to the office does not guarantee sanity.*
+
+### Intro
+It has been three years since I have been working remotely. This means that the time in which I have been doing remote work is now equal to the time I spent working in an office. Three years is not an eternity, but it has allowed me to formulate a few insights about remote work.
+
+### Thoughts
+
+* **One person working remotely means the whole team should adopt the remote approach.** A lot happens during spontaneous discussions near coffee machines in the office. It is the biggest challenge to create formal rules for natural communications and move on-site discussions to corresponding software tools. This is really difficult, especially if only a small part of the whole organization is working remotely.
+
+* **A major part of communication should be done using a task management system, code collaboration tools, and knowledge repositories.** Messengers, e-mails, and video calls are all terrible solutions when it comes to explaining things remotely.
+
+* **Slack has many dark sides.** In the beginning, I was totally in love with this tool. Now, I treat this as another distraction---the same as Facebook, Twitter, or Messenger. [Samuel Hulick](https://twitter.com/samuelhulick), in his [excellent article](https://ux.useronboard.com/slack-i-m-breaking-up-with-you-54600ace03ea), perfectly pointed out what is wrong with Slack. The problem is that I have not found anything better so far.
+
+* **Time differences can be a problem.** While I am living in Poland, time differences are not an issue when I am working with people living in other parts of Europe. However, working with people living in the USA or Australia is much more difficult. A narrow window of real-time communication can block tasks and cause delays. The solution is implementing a formalized and structured communication system.
+
+* **Context is crucial.** It is very easy to overlook the boundary between private life and professional life while working remotely. Working at home can destroy your productivity, because of the many distractions that can take place. And what is worse, working from home can destroy your private life, because it is much harder to stop thinking about work when your home is also your office. To keep your sanity in good condition, co-working places and cafes come to the rescue.
+
+* **Remote meetings are usually the same waste of time as real meetings.** However, it is much easier to endure them and not pay attention to irrelevant things while not being seen as rude.
+
+### Outro
+For me, the possibility of working remotely is the primary consideration when accepting or turning down a job offer. Remote work gives individuals a high degree of independence in the corporate-slave, capitalistic system. This freedom is more important than money, technology, company values, fancy perks, gaming rooms, or a gym in the corporate office. I do not want to make serious declarations, but I would probably have to be starving before I would be willing to go back to working full-time in an office.
+
