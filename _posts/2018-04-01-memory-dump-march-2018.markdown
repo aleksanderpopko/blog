@@ -13,7 +13,7 @@ description: Summary of the best news and articles I've read during March 2018.
 March 2018\. The criteria are very simple - the selection is 100%
 subjective.*
 
-### iOS Development
+### 📱 iOS Development
 
 iPhone SDK was released 10 years ago! 🎉🎉🎉 [Craig Hockenberry](https://twitter.com/chockenberry) describes his [reminiscing over those exciting times] when iPhone app development first began.(https://blog.iconfactory.com/2018/03/a-lot-can-happen-in-a-decade/)
 
@@ -25,19 +25,19 @@ iPhone SDK was released 10 years ago! 🎉🎉🎉 [Craig Hockenberry](https://t
 
 [IBM Watson Services for Core ML](https://developer.apple.com/ibm/). A combination of IBM’s question-answering supercomputer and [Apple’s machine learning framework](https://developer.apple.com/documentation/coreml) can take iOS apps to a completely new level.
 
-### Software Development
+### 👨‍💻 Software Development
 
 [GDPR - a practical guide for developers](https://techblog.bozho.net/gdpr-practical-guide-developers/). An excellent article explaining how you should adjust software to new European data protection regulations.
 
 [Stack Overflow Developer Survey 2018](https://insights.stackoverflow.com/survey/2018) is now published. A lot of interesting insights. Kotlin is better loved than Swift, while Objective-C is among 10 of the most dreaded languages.
 
-### Swift
+### 👩‍💻 Swift
 
 [The power of sets in Swift](https://www.swiftbysundell.com/posts/the-power-of-sets-in-swift). `Set`, one of the basic collection data structures, is not as often used as `array`, but it does have some benefits.
 
 [First-class swift API for Objective-C frameworks](https://pspdfkit.com/blog/2018/first-class-swift-api-for-objective-c-frameworks/). How to improve Objective-C and Swift interoperability by putting in some extra effort.
 
-### Security
+### 🔐 Security
 
 NY Magazine published [well-written article](https://nymag.com/selectall/2018/03/marcus-hutchins-hacker.html) describing what happened behind the scenes of the arrest of [MalwareTech](https://twitter.com/MalwareTechBlog) - a malware researcher who saved the world from [WannaCry](https://en.wikipedia.org/wiki/WannaCry_ransomware_attack).
 
