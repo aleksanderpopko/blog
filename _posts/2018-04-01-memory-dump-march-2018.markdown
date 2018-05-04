@@ -10,7 +10,7 @@ author: aleksanderpopko
 description: Summary of the best news and articles I've read during March 2018.
 ---
 *Here is a summary of the best news and articles I've read during
-March 2018\. The criteria are very simple - the selection is 100%
+March 2018. The criteria are very simple - the selection is 100%
 subjective.*
 
 ### 📱 iOS Development
