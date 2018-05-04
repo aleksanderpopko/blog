@@ -15,7 +15,7 @@ subjective.*
 
 ### 📱 iOS Development
 
-iPhone SDK was released 10 years ago! 🎉🎉🎉 [Craig Hockenberry](https://twitter.com/chockenberry) describes his [reminiscing over those exciting times] when iPhone app development first began.(https://blog.iconfactory.com/2018/03/a-lot-can-happen-in-a-decade/)
+iPhone SDK was released 10 years ago! 🎉🎉🎉 [Craig Hockenberry](https://twitter.com/chockenberry) describes his [reminiscing over those exciting times](https://blog.iconfactory.com/2018/03/a-lot-can-happen-in-a-decade/) when iPhone app development first began.
 
 [WWDC 2018 is officially announced](https://developer.apple.com/wwdc/)! Apple’s Worldwide Developers Conference will be held from June 4–8. That will be the best time to make a stock of craft beer, stay at home for a week, and replace Netflix with [https://developer.apple.com/videos/](https://developer.apple.com/videos/).
 
