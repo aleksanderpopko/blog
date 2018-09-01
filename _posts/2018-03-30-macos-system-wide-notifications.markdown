@@ -4,7 +4,7 @@ layout: post
 date: 2018-03-30 16:18
 headerImage: false
 tag:
-- macos development
+- macOS development
 - software development
 - objective-c
 - technical
