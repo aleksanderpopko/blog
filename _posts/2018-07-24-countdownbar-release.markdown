@@ -31,3 +31,4 @@ I made it 100% for myself, but as it is now public, I’m open to all suggestion
 
 * [View in Mac App Store](https://itunes.apple.com/pl/app/countdownbar/id1413807534?mt=12).
 * [Go to website](https://countdownbar.carrd.co/).
+
